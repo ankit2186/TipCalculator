@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="TipCalculator">TipCalculator!</string>
+    <string name="app_name">TipCalculator</string>
+	 <string name="AmountofBill">Amount of Bill</string>   
+	 <string name="PercentagetoTip">Percentage to Tip</string>
+	  <string name="NumberofPeople">Number of People</string>
+	  <string name="TipAmount">Tip Amount</string>
+ 	<string name="TotalPerPerson">Total Per Person</string>
+      <string name="TotalPayableAmount">TotalPayableAmount</string>
+      <string name="Calculate">Calculate</string>
+     <string name="Reset">Reset</string> 
+    
+</resources>
